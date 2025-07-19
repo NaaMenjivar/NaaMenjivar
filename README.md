@@ -32,12 +32,12 @@ I'm a **Systems Engineering student** passionate about learning, problem-solving
 
 ### 🧠 Other Competencies
 
-- Communication & Leadership
-- Critical Thinking & Problem Solving
-- Time Management & Organization
-- Microsoft Office
-- Circuit Simulation with Arduino IDE & Tinkercad
-- Community Management (Freelance)
+- Communication & Leadership  
+- Critical Thinking & Problem Solving  
+- Time Management & Organization  
+- Microsoft Office  
+- Circuit Simulation with Arduino IDE & Tinkercad  
+- Community Management (Freelance)   
 
 ---
 
@@ -52,8 +52,8 @@ I'm a **Systems Engineering student** passionate about learning, problem-solving
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naa-men&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naa-men&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NaaMenjivar&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaaMenjivar&layout=compact&theme=radical" height="150"/>
 </div>
 
 ---
