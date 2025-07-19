@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hello there, I'm Naara Menjívar Ramírez
 
-<!--
-**NaaMenjivar/NaaMenjivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Systems Engineering student** passionate about learning, problem-solving, and creating efficient and innovative solutions. I enjoy working in collaborative environments where I can grow both personally and professionally.
+
+- 🎓 Currently studying Systems Engineering at the **Universidad Nacional de Costa Rica (UNA)**
+- 🌍 Interested in technology, education, languages, and interdisciplinary learning
+- 🔎 Looking for opportunities to gain real-world experience and contribute to impactful projects
+
+---
+
+## 🧰 Skills & Competencies
+
+### 💻 Programming Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+</div>
+
+### 🔧 Tools & IDEs
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=flat&logo=visual-studio&logoColor=white" height="28" title="Visual Studio Community"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</div>
+
+### 🧠 Other Competencies
+
+- Communication & Leadership
+- Critical Thinking & Problem Solving
+- Time Management & Organization
+- Microsoft Office
+- Circuit Simulation with Arduino IDE & Tinkercad
+- Community Management (Freelance)
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish: Native  
+- 🇺🇸 English: Advanced  
+- 🇧🇷 Portuguese: Intermediate  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naa-men&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naa-men&layout=compact&theme=radical" height="150"/>
+</div>
+
+---
+
+## 📬 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naara-menjívar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:naara.menjivar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
