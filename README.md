@@ -24,7 +24,6 @@ I'm a **Systems Engineering student** passionate about learning, problem-solving
 ### 🔧 Tools & IDEs
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=flat&logo=visual-studio&logoColor=white" height="28" title="Visual Studio Community"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
