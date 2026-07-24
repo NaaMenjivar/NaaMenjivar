@@ -1,75 +1,115 @@
-# 👋 Hello there, I'm Naara Menjívar Ramírez
+# Hi! I'm Naara Menjívar
+
+> *Building technology with purpose through software, AI, and education.*
 
 ---
 
-## 🧠 About Me:
+## 🌱 About Me
 
-I'm a **Systems Engineering student** passionate about learning, problem-solving, and creating efficient and innovative solutions. I enjoy working in collaborative environments where I can grow both personally and professionally.
+I'm a **Systems Engineering student** at the **Universidad Nacional de Costa Rica (UNA)**, passionate about software engineering, artificial intelligence, data science, and educational technology.
 
-- 🎓 Currently studying Systems Engineering at the **Universidad Nacional de Costa Rica (UNA)**
-- 🌍 Interested in technology, education, languages, and interdisciplinary learning
-- 🔎 Looking for opportunities to gain real-world experience and contribute to impactful projects
+I enjoy transforming ideas into real-world projects while continuously learning new technologies and collaborating with people who are passionate about innovation.
+
+Currently, I'm focused on:
+
+- 💻 Software Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Analytics
+- 🗄️ Data Engineering
+- 🌐 Full-Stack Web Development
 
 ---
 
-## 🧰 Skills & Competencies
+## 🚀 Tech Stack
 
 ### 💻 Programming Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
-</div>
 
-### 🔧 Tools & IDEs
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat&logo=visualstudio&logoColor=white" height="28" title="Visual Studio 2022"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" height="28" title="RStudio"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" height="28" title="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=flat&logo=jetbrains&logoColor=white" height="28" title="JetBrains Rider"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-</div>
-
-### 🧠 Other Competencies
-
-- Communication & Leadership  
-- Critical Thinking & Problem Solving  
-- Time Management & Organization  
-- Microsoft Office  
-- Circuit Simulation with Arduino IDE & Tinkercad  
-- Community Management (Freelance)  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+</p>
 
 ---
 
-## 🌍 Languages
+### 🌐 Web Technologies
 
-- 🇪🇸 Spanish: Native  
-- 🇺🇸 English: Advanced  
-- 🇧🇷 Portuguese: Intermediate  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaaMenjivar&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaaMenjivar&layout=compact&theme=radical" height="150"/>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
 ---
 
-## 📬 Connect with me:
+### 🗄️ Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+</p>
+
+---
+
+### 🛠️ Tools & IDEs
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python for Artificial Intelligence
+- 🤖 Machine Learning
+- 🧠 Deep Learning Fundamentals
+- 🌐 Modern Web Development
+- ☁️ Cloud Computing
+- 🏗️ Software Architecture
+- 📊 Data Engineering
+
+---
+
+## 💡 Core Skills
+
+- Software Development
+- Object-Oriented Programming (OOP)
+- Database Design & SQL
+- Critical Thinking
+- Problem Solving
+- Leadership & Teamwork
+- Communication
+- Time Management
+
+---
+
+## 🌎 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇪🇸 Spanish | Native |
+| 🇺🇸 English | Advanced |
+| 🇧🇷 Portuguese | Intermediate |
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naara-menjívar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naara.menjivar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/naara-menj%C3%ADvar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:naara.menjivar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+---
